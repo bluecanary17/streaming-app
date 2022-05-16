@@ -1,4 +1,5 @@
 # streaming-app
+This is a web streaming app that is using AWS [IVS](https://docs.aws.amazon.com/ivs/latest/userguide/what-is.html) to handle the backend and Vue framework to handle the routing and frontend.
 
 ## Project setup
 ```
